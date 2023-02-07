@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Xero.NetStandard.OAuth2": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:28950;http://localhost:28951"
+    }
+  }
+}
